@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>Building strong foundations in Data Structures & Algorithms and learning full-stack web (MERN stack).<br><br>👯 I’m looking to collaborate on<br>Beginner-friendly open-source projects, hackathon ideas, and full-stack applications where I can learn and contribute.<br><br>🤝 I’m looking for help with<br>Improving system design basics, backend best practices, and writing clean, scalable code.<br><br>🌱 I’m currently learning<br>DSA (Striver A2Z Sheet), MERN stack, and core computer science fundamentals.<br><br>💬 Ask me about<br>DSA problem-solving approaches, Git/GitHub workflows, or getting started with full-stack development.<br><br>⚡ Fun fact<br>I balance coding with dance — I’ve represented my college in inter-college cultural events 💃🕺
+🔭 I’m currently working on<br>Building strong foundations in Data Structures & Algorithms and learning full-stack web (MERN stack).<br><br>💬 Ask me about<br>DSA problem-solving approaches, Git/GitHub workflows, or getting started with full-stack development.<br><br>
 
 
 ## 🌐 Socials:
